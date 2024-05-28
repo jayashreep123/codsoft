@@ -1,0 +1,17 @@
+@keyframes colorChange {
+    0% {
+        color: #eea38e;
+    }
+
+    25% {
+        color: rgb(252, 252, 123));
+    }
+
+    50% {
+        color: #5c76eb;
+    }
+
+    100% {
+        color: #4caf50;
+    }
+}
